@@ -1,4 +1,4 @@
 FWGame
 ======
 
-FWGame is a small frame work used to build Games in HTML5 and Canvas.
+FWGame is a small framework used to build Games in HTML5 and Canvas.
