@@ -1,0 +1,22 @@
+{
+  "name": "snake-js-oo",
+  "version": "1.0.0",
+  "description": "Snake JavaScript O. O.",
+  "main": "index.js",
+  "scripts": {
+    "start": "livereload $PWD/public/ & serve -l 8118 $PWD/public/"
+  },
+  "keywords": [
+    "Snake",
+    "Game",
+    "Javascript",
+    "OO"
+  ],
+  "author": "Fernando H Correa",
+  "license": "ISC",
+  "devDependencies": {
+    "livereload": "^0.9.1",
+    "nodemon": "^2.0.3",
+    "serve": "^11.3.0"
+  }
+}
